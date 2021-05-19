@@ -1,1 +1,1 @@
-function toUpperCase() {}
+function toUpperCase(str) {return str.toUpperCase()}
